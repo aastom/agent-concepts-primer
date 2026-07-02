@@ -28,6 +28,13 @@ graph TD
     E --> F(05: Final Project - Simple Researcher);
 ```
 
+## 📚 Documentation
+
+A comprehensive documentation bundle, including a detailed learning roadmap and supporting references, is available on Google Drive.
+
+- **[Browse the Drive Folder](https://drive.google.com/drive/folders/1Q5XnFtnokgXpS-lqpm2StBsEr6AdxlTp)**
+- **[Read the Documentation Bundle](https://docs.google.com/document/d/1mmu-X0bOC3iAl6FGQj-9_Yo2RqBGWwVT5X4r7wudvRs/edit?usp=drivesdk)**
+
 ## Getting Started
 
 1.  **Clone the repository:**
